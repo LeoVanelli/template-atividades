@@ -1,6 +1,6 @@
 # Insira aqui o nome do exercício
 
-* 🖥️ Exercício: Insira aqui o nome do Exercício
+* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
 * 🏫 Instituição: Insira aqui o nome da Instituição
 * ✨ Curso: Insira aqui o nome do Curso
 * 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
